@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvJ
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Web Devolopment
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web designing and development
 - 📫 How to reach me email [atharvjnambiar@gmail.com]
